@@ -3,15 +3,15 @@ a wrapper for the [InferKit](https://inferkit.com) api.
 
 
 *from InferKit's website*:
-> InferKit's text generation tool takes text you provide and generates what it thinks comes next, using a state-of-the-art neural network. It's configurable and can produce any length of text on practically any topic. An example:
+> *InferKit's text generation tool takes text you provide and generates what it thinks comes next, using a state-of-the-art neural network. It's configurable and can produce any length of text on practically any topic. An example*:
 >
-> Input:
+> **Input**:
 >
 > While not normally known for his musical talent, Elon Musk is releasing a debut album
 >
-> Completion:
+> **Completion**:
 >
-> While not normally known for his musical talent, Elon Musk is releasing a debut album. It's called "The Road to Re-Entry," and it features an astounding collection of songs... (continued)
+> *While not normally known for his musical talent, Elon Musk is releasing a debut album. It's called "The Road to Re-Entry," and it features an astounding collection of songs... (continued)*
 
 
 ```javascript
