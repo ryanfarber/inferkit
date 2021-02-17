@@ -16,6 +16,10 @@ From InferKit's website:
 > *While not normally known for his musical talent, Elon Musk is releasing a debut album. It's called "The Road to Re-Entry," and it features an astounding collection of songs... (continued)*
 
 
+### usage
+currently, this will allow you to generate text each time you call the function.
+
+
 ```javascript
 
 const inferkit = new InferKit(inferkit_api_key)
