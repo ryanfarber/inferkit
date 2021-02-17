@@ -18,7 +18,7 @@ From InferKit's website:
 
 ```javascript
 
-const inferkit = new Inferkit(inferkit_api_key)
+const inferkit = new InferKit(inferkit_api_key)
 
 inferkit.process("hello world.  I am playing around with an AI.").then(console.log)
 inferkit.process("hello world.  I am playing around with an AI.", {length: 100}).then(console.log)

@@ -2,7 +2,7 @@
 const axios = require("axios")
 
 
-class Inferkit {
+class InferKit {
 	constructor(apiKey, settings = {}) {
 		// let apiKey = settings.apiKey
 		this.apiKey = apiKey
@@ -42,4 +42,4 @@ class Inferkit {
 	};
 };
 
-module.exports = Inferkit
+module.exports = InferKit
