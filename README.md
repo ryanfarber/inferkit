@@ -5,7 +5,7 @@ A wrapper for the [InferKit](https://inferkit.com) api.
 
 
 From InferKit's website:
-> *InferKit's text generation tool takes text you provide and generates what it thinks comes next, using a state-of-the-art neural network. It's configurable and can produce any length of text on practically any topic. An example*:
+> InferKit's text generation tool takes text you provide and generates what it thinks comes next, using a state-of-the-art neural network. It's configurable and can produce any length of text on practically any topic. An example:
 >
 > **Input**:
 >
@@ -36,5 +36,9 @@ inferkit.process("hello world.  I am playing around with an AI.", {length: 100})
 	It has learned to recognize its own program and write...
 */
 ````
+## to do
+- [ ] add support for user custom generators
+- [ ] make a method for continuing generation from accumulating text
+
 
 Inferkit was created by [Adam Daniel King](https://github.com/AdamDanielKing)

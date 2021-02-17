@@ -1,6 +1,6 @@
 {
   "name": "inferkit",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "a wrapper for the inferkit api",
   "main": "index.js",
   "scripts": {
@@ -19,13 +19,16 @@
     "url": "git+https://github.com/ryanfarber/inferkit.git"
   },
   "keywords": [
-    "inferkit",
-    "nlp",
-    "text",
-    "generation",
     "ai",
-    "neural",
-    "network"
+    "api",
+    "generator",
+    "inferkit",
+    "megatron",
+    "natural language processing",
+    "natural language understanding",
+    "neural network",
+    "nlp",
+    "text generation"
   ],
   "bugs": {
     "url": "https://github.com/ryanfarber/inferkit/issues"
