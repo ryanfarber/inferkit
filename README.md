@@ -1,8 +1,10 @@
 # inferkit
-a wrapper for the [InferKit](https://inferkit.com) api.
+A wrapper for the [InferKit](https://inferkit.com) api.
+
+*"InferKit offers an interface and API for custom AI–based text generators. Whether you're a novelist looking for inspiration, or an app developer, there's something for you."*
 
 
-*from InferKit's website*:
+From InferKit's website:
 > *InferKit's text generation tool takes text you provide and generates what it thinks comes next, using a state-of-the-art neural network. It's configurable and can produce any length of text on practically any topic. An example*:
 >
 > **Input**:
@@ -30,3 +32,5 @@ inferkit.process("hello world.  I am playing around with an AI.", {length: 100})
 	It has learned to recognize its own program and write...
 */
 ````
+
+Inferkit was created by [Adam Daniel King](https://github.com/AdamDanielKing)
